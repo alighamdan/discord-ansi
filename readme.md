@@ -19,6 +19,12 @@ this library allows for you to make a colorized message
     <hr />
 </center>
 
+# note:
+
+most of ansi colors are not supported in discord <br />
+just use the supported colors in this library <br />
+(ansi colors are not supported in discord mobile application)
+
 # usage:
 
 the usage is simillar to [chalk](https://npmjs.com/package/chalk) npm
