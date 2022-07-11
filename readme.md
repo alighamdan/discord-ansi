@@ -170,6 +170,6 @@ the colors codes are the most important thing you need to know
 (3). 2: <ins>underline</ins><br />
 
 <hr />
-## support?
+<h4> support? </h4>
 feel free to open an issue<br />
 or join to my server in discord its called <b><a href="https://discord.gg/Kwz5p8dDuG">Potato 🥔</a></b>
